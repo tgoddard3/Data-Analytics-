@@ -5,7 +5,7 @@ This repository contains data analytics projects focused on Automotive Sales and
 ## 📂 Project Overview
 
 - **Data Source**: https://www.kaggle.com/datasets/missionjee/car-sales-report/data
-- **Objective**: Identify Industry Trends to Develop Sales
+- **Objective**: Identify Industry Trends to Predict Future Sales
 - **Tools Used**: Python, pandas, matplotlib/seaborn, scikit-learn, 
 
 ## 📊 Contents
